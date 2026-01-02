@@ -19,14 +19,17 @@
       "CanResetBoard": true,
       "FirmwareBaseName": "saves_mf_em_1_raspberrypico",
       "FirmwareExtension": "uf2",
-      "FriendlyName": "MF_EM_1",
+      "FriendlyName": "MF_EM",
       "LatestFirmwareVersion": "0.0.1",
-      "MobiFlightType": "MF_EM_1",
+      "MobiFlightType": "MF_EM",
       "ResetFirmwareFile": "reset.raspberry_pico_flash_nuke.uf2",
       "CustomDeviceTypes": [
         "FFGauge",
         "ITTGauge",
-        "NPGauge"
+        "NPGauge",
+        "TRQGauge",
+        "OTOPGauge",
+        "NGGauge"
       ],
       "Community": {
         "Project": "Your Project",
